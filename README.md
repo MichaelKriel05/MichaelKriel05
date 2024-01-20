@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelKriel05
 - 👀 I’m interested in Technology, Cars, and Gaming.
-- 🌱 I’m currently studying IT (Application Dev) at Varsity College.
+- 🌱 I’m a graduate of IT (Application Dev) BCAD at Varsity College.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me: michael.kriel@hotmail.com
 
